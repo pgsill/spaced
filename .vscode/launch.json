@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Spess427 (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Spess427 Win64 Debug Build",
+			"program": "C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Spess427 (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Spess427 Win64 DebugGame Build",
+			"program": "C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Spess427 (Development)",
+			"request": "launch",
+			"preLaunchTask": "Spess427 Win64 Development Build",
+			"program": "C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Spess427 (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "Spess427 Win64 Shipping Build",
+			"program": "C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Spess427 (Test)",
+			"request": "launch",
+			"preLaunchTask": "Spess427 Win64 Test Build",
+			"program": "C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Spess427Editor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Spess427Editor Win64 Debug Build",
+			"program": "C:\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\Spess427.uproject"
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Spess427Editor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Spess427Editor Win64 DebugGame Build",
+			"program": "C:\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\Spess427.uproject"
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Spess427Editor (Development)",
+			"request": "launch",
+			"preLaunchTask": "Spess427Editor Win64 Development Build",
+			"program": "C:\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\Spess427.uproject"
+			],
+			"cwd": "C:\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\UE_4.27\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\Spess427.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\UE_4.27"
+		}
+	]
+}

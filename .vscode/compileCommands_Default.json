@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Inacio\\\\Documents\\\\Unreal Projects\\\\Spess\\\\Source\\\\Spess427\\\\InventoryItem.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30037\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\.vscode\\compileCommands_Default\\Spess427.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Inacio\\\\Documents\\\\Unreal Projects\\\\Spess\\\\Source\\\\Spess427\\\\InventoryItem.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30037\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\.vscode\\compileCommands_Default\\Spess427.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Inacio\\\\Documents\\\\Unreal Projects\\\\Spess\\\\Source\\\\Spess427\\\\Spess427.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30037\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\.vscode\\compileCommands_Default\\Spess427.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Inacio\\\\Documents\\\\Unreal Projects\\\\Spess\\\\Source\\\\Spess427\\\\Spess427.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30037\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\.vscode\\compileCommands_Default\\Spess427.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Inacio\\\\Documents\\\\Unreal Projects\\\\Spess\\\\Source\\\\Spess427\\\\Spess427.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30037\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Inacio\\Documents\\Unreal Projects\\Spess\\.vscode\\compileCommands_Default\\Spess427.210.rsp\"",
+		"directory": "C:\\UE_4.27\\Engine\\Source"
+	}
+]
